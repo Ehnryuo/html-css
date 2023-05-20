@@ -168,3 +168,6 @@ text-align: center;
 background-color: #59DE54;
 font-size: 0.9em;
 }
+html, body {
+    overflow-x: hidden;
+  }
