@@ -147,8 +147,8 @@ aside {
     display: block;
     border-radius: 10px 10px 8px 8px;
     padding: 10px;
-    margin: 17px 39px 0px 39px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.404);
+    margin: auto;
 }
 aside > ul {
     list-style-position: inside;
