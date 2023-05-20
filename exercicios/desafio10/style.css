@@ -146,6 +146,7 @@ aside {
     background-color:#51F57B;
     border-radius: 10px 10px 8px 8px;
     padding: 10px;
+    margin: 17px 39px 0px 39px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.404);
 }
 aside > ul {
