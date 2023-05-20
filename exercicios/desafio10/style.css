@@ -33,7 +33,8 @@ header > h1 {
 header > p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.5em;
-    color: #f0ffff;
+    color: #ffffff;
+    font-weight: bold;
     max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
@@ -63,10 +64,7 @@ nav > a:hover {
 body {
     background-color: #E1DEBC;
 }
-article {
-    padding: 8px;
-    margin: 14px;
-}
+
 article > h2 {
     font-family: 'eba', Arial, Helvetica, sans-serif;
 }
