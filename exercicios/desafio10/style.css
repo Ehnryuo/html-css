@@ -14,6 +14,10 @@
     --cor4: #C0EB4D;
     --cor5: #f0ffff;
 }
+* {
+    margin: 0px;
+    padding: 0px;
+}
 header {
     background-image: linear-gradient(to bottom, #4DEBA2, #51F57B, #59DE54, #8FF551, #C0EB4D);
     min-height: 150px;
